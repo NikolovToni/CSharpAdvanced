@@ -1,0 +1,13 @@
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/05.PrintEvenNumbers/bin/Debug/netcoreapp3.1/05.PrintEvenNumbers.deps.json
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/05.PrintEvenNumbers/bin/Debug/netcoreapp3.1/05.PrintEvenNumbers.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/05.PrintEvenNumbers/bin/Debug/netcoreapp3.1/05.PrintEvenNumbers.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/05.PrintEvenNumbers/bin/Debug/netcoreapp3.1/05.PrintEvenNumbers.dll
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/05.PrintEvenNumbers/bin/Debug/netcoreapp3.1/05.PrintEvenNumbers.pdb
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/05.PrintEvenNumbers/obj/Debug/netcoreapp3.1/05.PrintEvenNumbers.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/05.PrintEvenNumbers/obj/Debug/netcoreapp3.1/05.PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/05.PrintEvenNumbers/obj/Debug/netcoreapp3.1/05.PrintEvenNumbers.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/05.PrintEvenNumbers/obj/Debug/netcoreapp3.1/05.PrintEvenNumbers.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/05.PrintEvenNumbers/obj/Debug/netcoreapp3.1/05.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/05.PrintEvenNumbers/obj/Debug/netcoreapp3.1/05.PrintEvenNumbers.dll
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/05.PrintEvenNumbers/obj/Debug/netcoreapp3.1/05.PrintEvenNumbers.pdb
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/05.PrintEvenNumbers/obj/Debug/netcoreapp3.1/05.PrintEvenNumbers.genruntimeconfig.cache
