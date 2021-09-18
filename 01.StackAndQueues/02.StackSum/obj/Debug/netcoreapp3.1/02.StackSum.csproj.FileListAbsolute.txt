@@ -1,0 +1,13 @@
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/02.StackSum/bin/Debug/netcoreapp3.1/02.StackSum.deps.json
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/02.StackSum/bin/Debug/netcoreapp3.1/02.StackSum.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/02.StackSum/bin/Debug/netcoreapp3.1/02.StackSum.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/02.StackSum/bin/Debug/netcoreapp3.1/02.StackSum.dll
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/02.StackSum/bin/Debug/netcoreapp3.1/02.StackSum.pdb
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/02.StackSum/obj/Debug/netcoreapp3.1/02.StackSum.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/02.StackSum/obj/Debug/netcoreapp3.1/02.StackSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/02.StackSum/obj/Debug/netcoreapp3.1/02.StackSum.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/02.StackSum/obj/Debug/netcoreapp3.1/02.StackSum.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/02.StackSum/obj/Debug/netcoreapp3.1/02.StackSum.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/02.StackSum/obj/Debug/netcoreapp3.1/02.StackSum.dll
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/02.StackSum/obj/Debug/netcoreapp3.1/02.StackSum.pdb
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/02.StackSum/obj/Debug/netcoreapp3.1/02.StackSum.genruntimeconfig.cache
