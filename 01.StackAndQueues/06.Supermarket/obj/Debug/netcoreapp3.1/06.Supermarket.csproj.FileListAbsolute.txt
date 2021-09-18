@@ -1,0 +1,13 @@
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/06.Supermarket/bin/Debug/netcoreapp3.1/06.Supermarket.deps.json
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/06.Supermarket/bin/Debug/netcoreapp3.1/06.Supermarket.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/06.Supermarket/bin/Debug/netcoreapp3.1/06.Supermarket.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/06.Supermarket/bin/Debug/netcoreapp3.1/06.Supermarket.dll
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/06.Supermarket/bin/Debug/netcoreapp3.1/06.Supermarket.pdb
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/06.Supermarket/obj/Debug/netcoreapp3.1/06.Supermarket.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/06.Supermarket/obj/Debug/netcoreapp3.1/06.Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/06.Supermarket/obj/Debug/netcoreapp3.1/06.Supermarket.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/06.Supermarket/obj/Debug/netcoreapp3.1/06.Supermarket.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/06.Supermarket/obj/Debug/netcoreapp3.1/06.Supermarket.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/06.Supermarket/obj/Debug/netcoreapp3.1/06.Supermarket.dll
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/06.Supermarket/obj/Debug/netcoreapp3.1/06.Supermarket.pdb
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/06.Supermarket/obj/Debug/netcoreapp3.1/06.Supermarket.genruntimeconfig.cache
