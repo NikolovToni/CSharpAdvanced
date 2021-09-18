@@ -6,7 +6,7 @@ namespace _01.ReverseStrings
     {
         static void Main(string[] args)
         {
-
+            //Task 1
         }
     }
 }
