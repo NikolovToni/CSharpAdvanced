@@ -1,0 +1,13 @@
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/01.ReverseStrings/bin/Debug/netcoreapp3.1/01.ReverseStrings.deps.json
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/01.ReverseStrings/bin/Debug/netcoreapp3.1/01.ReverseStrings.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/01.ReverseStrings/bin/Debug/netcoreapp3.1/01.ReverseStrings.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/01.ReverseStrings/bin/Debug/netcoreapp3.1/01.ReverseStrings.dll
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/01.ReverseStrings/bin/Debug/netcoreapp3.1/01.ReverseStrings.pdb
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/01.ReverseStrings/obj/Debug/netcoreapp3.1/01.ReverseStrings.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/01.ReverseStrings/obj/Debug/netcoreapp3.1/01.ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/01.ReverseStrings/obj/Debug/netcoreapp3.1/01.ReverseStrings.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/01.ReverseStrings/obj/Debug/netcoreapp3.1/01.ReverseStrings.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/01.ReverseStrings/obj/Debug/netcoreapp3.1/01.ReverseStrings.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/01.ReverseStrings/obj/Debug/netcoreapp3.1/01.ReverseStrings.dll
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/01.ReverseStrings/obj/Debug/netcoreapp3.1/01.ReverseStrings.pdb
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/01.ReverseStrings/obj/Debug/netcoreapp3.1/01.ReverseStrings.genruntimeconfig.cache
