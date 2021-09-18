@@ -1,0 +1,13 @@
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/03.SimpleCalculator/bin/Debug/netcoreapp3.1/03.SimpleCalculator.deps.json
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/03.SimpleCalculator/bin/Debug/netcoreapp3.1/03.SimpleCalculator.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/03.SimpleCalculator/bin/Debug/netcoreapp3.1/03.SimpleCalculator.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/03.SimpleCalculator/bin/Debug/netcoreapp3.1/03.SimpleCalculator.dll
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/03.SimpleCalculator/bin/Debug/netcoreapp3.1/03.SimpleCalculator.pdb
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/03.SimpleCalculator/obj/Debug/netcoreapp3.1/03.SimpleCalculator.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/03.SimpleCalculator/obj/Debug/netcoreapp3.1/03.SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/03.SimpleCalculator/obj/Debug/netcoreapp3.1/03.SimpleCalculator.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/03.SimpleCalculator/obj/Debug/netcoreapp3.1/03.SimpleCalculator.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/03.SimpleCalculator/obj/Debug/netcoreapp3.1/03.SimpleCalculator.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/03.SimpleCalculator/obj/Debug/netcoreapp3.1/03.SimpleCalculator.dll
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/03.SimpleCalculator/obj/Debug/netcoreapp3.1/03.SimpleCalculator.pdb
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/03.SimpleCalculator/obj/Debug/netcoreapp3.1/03.SimpleCalculator.genruntimeconfig.cache
