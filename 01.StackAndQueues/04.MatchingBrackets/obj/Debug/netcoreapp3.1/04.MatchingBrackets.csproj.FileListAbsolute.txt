@@ -1,0 +1,13 @@
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/04.MatchingBrackets/bin/Debug/netcoreapp3.1/04.MatchingBrackets.deps.json
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/04.MatchingBrackets/bin/Debug/netcoreapp3.1/04.MatchingBrackets.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/04.MatchingBrackets/bin/Debug/netcoreapp3.1/04.MatchingBrackets.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/04.MatchingBrackets/bin/Debug/netcoreapp3.1/04.MatchingBrackets.dll
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/04.MatchingBrackets/bin/Debug/netcoreapp3.1/04.MatchingBrackets.pdb
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/04.MatchingBrackets/obj/Debug/netcoreapp3.1/04.MatchingBrackets.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/04.MatchingBrackets/obj/Debug/netcoreapp3.1/04.MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/04.MatchingBrackets/obj/Debug/netcoreapp3.1/04.MatchingBrackets.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/04.MatchingBrackets/obj/Debug/netcoreapp3.1/04.MatchingBrackets.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/04.MatchingBrackets/obj/Debug/netcoreapp3.1/04.MatchingBrackets.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/04.MatchingBrackets/obj/Debug/netcoreapp3.1/04.MatchingBrackets.dll
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/04.MatchingBrackets/obj/Debug/netcoreapp3.1/04.MatchingBrackets.pdb
+/Users/toninikolov/Desktop/CSharpAdvanced/01.StackAndQueues/04.MatchingBrackets/obj/Debug/netcoreapp3.1/04.MatchingBrackets.genruntimeconfig.cache
