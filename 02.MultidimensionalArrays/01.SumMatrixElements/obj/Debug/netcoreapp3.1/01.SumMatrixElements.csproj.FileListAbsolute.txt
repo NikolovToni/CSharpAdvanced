@@ -1,0 +1,14 @@
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\01.SumMatrixElements\bin\Debug\netcoreapp3.1\01.SumMatrixElements.exe
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\01.SumMatrixElements\bin\Debug\netcoreapp3.1\01.SumMatrixElements.deps.json
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\01.SumMatrixElements\bin\Debug\netcoreapp3.1\01.SumMatrixElements.runtimeconfig.json
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\01.SumMatrixElements\bin\Debug\netcoreapp3.1\01.SumMatrixElements.runtimeconfig.dev.json
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\01.SumMatrixElements\bin\Debug\netcoreapp3.1\01.SumMatrixElements.dll
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\01.SumMatrixElements\bin\Debug\netcoreapp3.1\01.SumMatrixElements.pdb
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\01.SumMatrixElements\obj\Debug\netcoreapp3.1\01.SumMatrixElements.csproj.AssemblyReference.cache
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\01.SumMatrixElements\obj\Debug\netcoreapp3.1\01.SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\01.SumMatrixElements\obj\Debug\netcoreapp3.1\01.SumMatrixElements.AssemblyInfoInputs.cache
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\01.SumMatrixElements\obj\Debug\netcoreapp3.1\01.SumMatrixElements.AssemblyInfo.cs
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\01.SumMatrixElements\obj\Debug\netcoreapp3.1\01.SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\01.SumMatrixElements\obj\Debug\netcoreapp3.1\01.SumMatrixElements.dll
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\01.SumMatrixElements\obj\Debug\netcoreapp3.1\01.SumMatrixElements.pdb
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\01.SumMatrixElements\obj\Debug\netcoreapp3.1\01.SumMatrixElements.genruntimeconfig.cache
