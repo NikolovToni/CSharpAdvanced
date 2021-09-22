@@ -29,6 +29,7 @@ namespace _02.SumMatrixColumns
                 }
             }
 
+            // int[] sumColumns = new int[cols];
             int sumColumns = 0;
             for (int col = 0; col < cols; col++)
             {
@@ -38,6 +39,7 @@ namespace _02.SumMatrixColumns
                 }
 
                 Console.WriteLine(sumColumns);
+                sumColumns = 0;
             }
         }
     }
