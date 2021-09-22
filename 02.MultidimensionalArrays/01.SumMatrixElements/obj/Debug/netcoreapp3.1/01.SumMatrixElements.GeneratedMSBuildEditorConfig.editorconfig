@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = _01.SumMatrixElements
+<<<<<<< HEAD
 build_property.ProjectDir = /Users/toninikolov/Desktop/CSharpAdvanced/02.MultidimensionalArrays/01.SumMatrixElements/
+=======
+build_property.ProjectDir = C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\01.SumMatrixElements\
+>>>>>>> 860d254b5237bb102b10778083f8854bd5e8edbb
