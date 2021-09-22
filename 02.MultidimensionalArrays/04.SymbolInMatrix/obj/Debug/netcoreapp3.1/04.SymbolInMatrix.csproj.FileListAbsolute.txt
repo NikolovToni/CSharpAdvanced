@@ -1,0 +1,14 @@
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\04.SymbolInMatrix\bin\Debug\netcoreapp3.1\04.SymbolInMatrix.exe
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\04.SymbolInMatrix\bin\Debug\netcoreapp3.1\04.SymbolInMatrix.deps.json
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\04.SymbolInMatrix\bin\Debug\netcoreapp3.1\04.SymbolInMatrix.runtimeconfig.json
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\04.SymbolInMatrix\bin\Debug\netcoreapp3.1\04.SymbolInMatrix.runtimeconfig.dev.json
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\04.SymbolInMatrix\bin\Debug\netcoreapp3.1\04.SymbolInMatrix.dll
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\04.SymbolInMatrix\bin\Debug\netcoreapp3.1\04.SymbolInMatrix.pdb
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.csproj.AssemblyReference.cache
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.AssemblyInfoInputs.cache
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.AssemblyInfo.cs
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.dll
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.pdb
+C:\Users\Toni\Desktop\CSharpAdvanced\02.MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.genruntimeconfig.cache
