@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "129mBI2tP4N637iVHW1qz86lqqh28G7GrwLBrYmrNr9mM7i+b8lD2C35RUGQAPJMJ4fRUhJAZpM/h5ZyZNOn3A==",
+  "dgSpecHash": "9a7cSbTWjRihXtqMvgbdGk2LjLra87O+3CR3UjnAVZGEAKO5QUDoO7KzG9zxK3gzQD0jMIMhyb1SjbhdJDaaCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Toni\\Desktop\\CSharpAdvanced\\02.MultidimensionalArrays\\04.SymbolInMatrix\\04.SymbolInMatrix.csproj",
+  "projectFilePath": "/Users/toninikolov/Desktop/CSharpAdvanced/02.MultidimensionalArrays/04.SymbolInMatrix/04.SymbolInMatrix.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

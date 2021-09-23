@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mbzQx8EARx9ZWwNVF6d0X14stxGuqeS4JX8wpK/FbKCdagWTAxC3eYYB3mmzCSF1glew6AoFZSxMMxZjiM7oqA==",
+  "dgSpecHash": "ewESZcBlmGnVbYk7/Vyq8g+9kpwFtRAIMMDA3TqxOcJE8AzPu6RtJshHm1eboDDnT1QyG3aYxYa4Hib8qILEHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Toni\\Desktop\\CSharpAdvanced\\02.MultidimensionalArrays\\03.PrimaryDiagonal\\03.PrimaryDiagonal.csproj",
+  "projectFilePath": "/Users/toninikolov/Desktop/CSharpAdvanced/02.MultidimensionalArrays/03.PrimaryDiagonal/03.PrimaryDiagonal.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

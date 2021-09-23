@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FasaNzX2nLV3vuuMBDnxjqgqKssL6Y94CrnKQuZMd9OxWAI2jJNUOspZxSUy6gKh897d1IzNktMYuYkwIVLpdQ==",
+  "dgSpecHash": "3Zyy+udZ5RpKsx1SEadNRcfM3c8WJHTZa4OJ49rpll7pTlquILX2ONHbrtqDWqxbD7KPJ8iUJkj/aB/JK5VC5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Toni\\Desktop\\CSharpAdvanced\\02.MultidimensionalArrays\\02.SumMatrixColumns\\02.SumMatrixColumns.csproj",
+  "projectFilePath": "/Users/toninikolov/Desktop/CSharpAdvanced/02.MultidimensionalArrays/02.SumMatrixColumns/02.SumMatrixColumns.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cV/cBfn9AeTY34eTclp5bnt7GltmbkcxZbyQth0ek9fNgLwrwN+FAFFJQJLNOLUfE3RL6GG6FKXOjYU7wV71dw==",
+  "dgSpecHash": "MvMabRPiczLPt8PdBzsdXE+vw7huQBqFVFg+eNYkub4ef9eQJ8pyqqHkv7/blzeuOwnvmF+t2IrlKzDWvQirWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Toni\\Desktop\\CSharpAdvanced\\02.MultidimensionalArrays\\05.SquareWithMaximumSum\\05.SquareWithMaximumSum.csproj",
+  "projectFilePath": "/Users/toninikolov/Desktop/CSharpAdvanced/02.MultidimensionalArrays/05.SquareWithMaximumSum/05.SquareWithMaximumSum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
